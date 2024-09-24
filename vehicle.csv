@@ -1,0 +1,6 @@
+﻿VehicleID,Date,ServiceType,ServiceCost,Mileage
+V001,01-04-2024,Oil Change,50,15000
+V002,05-04-2024,Tire Replacement,400,30000
+V003,10-04-2024,Battery Replacement,120,25000
+V004,15-04-2024,Brake Inspection,200,40000
+V005,20-04-2024,Oil Change,50,18000

@@ -1,0 +1,10 @@
+﻿Date,Region,Product,Quantity,Price
+01-09-2024,North,Widget A,10,25.5
+01-09-2024,South,Widget B,5,15.75
+02-09-2024,North,Widget A,12,25.5
+02-09-2024,East,Widget C,8,22.5
+03-09-2024,West,Widget A,15,25.5
+03-09-2024,South,Widget B,20,15.75
+03-09-2024,East,Widget C,10,22.5
+04-09-2024,North,Widget D,7,30
+04-09-2024,West,Widget B,9,15.75

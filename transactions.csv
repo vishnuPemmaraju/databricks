@@ -1,0 +1,6 @@
+﻿TransactionID,TransactionDate,CustomerID,Product,Quantity,Price
+1,01-09-2024,C001,Laptop,1,1200
+2,02-09-2024,C002,Tablet,2,300
+3,03-09-2024,C001,Headphones,5,50
+4,04-09-2024,C003,Smartphone,1,800
+5,05-09-2024,C004,Smartwatch,3,200

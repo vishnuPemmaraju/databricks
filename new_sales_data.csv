@@ -1,0 +1,4 @@
+﻿OrderID,OrderDate,CustomerID,Product,Quantity,Price
+1009,22-01-2024,C006,Widget E,14,20
+1010,23-01-2024,C007,Widget F,6,35
+1002,16-01-2024,C002,Widget B,10,15.75
