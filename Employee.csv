@@ -1,0 +1,6 @@
+﻿EmployeeID,EmployeeName,Department,JoiningDate,Salary
+101,John,HR,10-01-2023,50000
+102,Alice,Finance,15-02-2023,70000
+103,Mark,Engineering,20-03-2023,85000
+104,Emma,Sales,01-04-2023,55000
+105,Liam,Marketing,12-05-2023,60000
